@@ -8,8 +8,8 @@
 
 
 <div style="display: inline_block">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vespidhook&layout=compact&theme=algolia"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=CaioFernandes10&show_icons=true&theme=algolia&line_height=27">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFernandes10&layout=compact&theme=algolia"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
